@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0045-jump-game-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -32,4 +33,9 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0045-jump-game-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
