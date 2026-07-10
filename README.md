@@ -25,6 +25,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0045-jump-game-ii) |
 | [0059-spiral-matrix-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0213-house-robber-ii) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0213-house-robber-ii) |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0064-minimum-path-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
