@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0198-house-robber) |
@@ -88,9 +89,14 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0062-unique-paths) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
