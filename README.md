@@ -29,6 +29,7 @@
 | [0120-triangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0494-target-sum) |
@@ -52,6 +53,7 @@
 | [0120-triangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0494-target-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -87,6 +89,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0322-coin-change) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
