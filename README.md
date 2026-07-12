@@ -33,6 +33,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0518-coin-change-ii) |
 | [1288-remove-covered-intervals](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -56,6 +57,7 @@
 | [0322-coin-change](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0518-coin-change-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
