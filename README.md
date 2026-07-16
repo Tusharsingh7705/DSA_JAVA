@@ -55,6 +55,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0059-spiral-matrix-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | [0062-unique-paths](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0368-largest-divisible-subset) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
 |  |
 | ------- |
@@ -153,6 +157,7 @@
 | [0455-assign-cookies](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,4 +178,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
