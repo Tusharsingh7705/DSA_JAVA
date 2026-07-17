@@ -40,6 +40,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0213-house-robber-ii) |
+| [0312-burst-balloons](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
@@ -74,6 +75,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0213-house-robber-ii) |
+| [0312-burst-balloons](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0416-partition-equal-subset-sum) |
