@@ -19,6 +19,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0583-delete-operation-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
+| [1106-parsing-a-boolean-expression](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -182,4 +183,12 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [1106-parsing-a-boolean-expression](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1106-parsing-a-boolean-expression) |
+## Recursion
+|  |
+| ------- |
+| [1106-parsing-a-boolean-expression](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1106-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
