@@ -50,6 +50,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -87,6 +88,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
@@ -111,6 +113,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0064-minimum-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
