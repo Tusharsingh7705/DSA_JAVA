@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0583-delete-operation-for-two-strings) |
@@ -169,6 +170,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -213,5 +215,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
