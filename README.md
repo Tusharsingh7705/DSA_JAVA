@@ -20,6 +20,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0686-repeated-string-match) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
 | [1106-parsing-a-boolean-expression](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -103,6 +104,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0085-maximal-rectangle) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1106-parsing-a-boolean-expression) |
 ## Recursion
 |  |
