@@ -64,6 +64,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -122,6 +123,7 @@
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3536-maximum-product-of-two-digits) |
@@ -161,6 +163,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
