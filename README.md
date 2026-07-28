@@ -30,6 +30,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -240,4 +242,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0686-repeated-string-match) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
