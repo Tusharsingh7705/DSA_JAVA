@@ -109,6 +109,7 @@
 | [0518-coin-change-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -170,6 +171,7 @@
 | [0207-course-schedule](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -183,6 +185,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -202,6 +205,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Combinatorics
@@ -275,6 +279,7 @@
 | [0200-number-of-islands](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
@@ -284,5 +289,6 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
