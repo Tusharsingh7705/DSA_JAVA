@@ -69,6 +69,7 @@
 | [1288-remove-covered-intervals](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -145,6 +146,7 @@
 | [0221-maximal-square](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0221-maximal-square) |
 | [1260-shift-2d-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
@@ -155,6 +157,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -166,18 +169,21 @@
 | [0207-course-schedule](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
@@ -267,6 +273,7 @@
 | [0200-number-of-islands](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
