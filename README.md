@@ -62,6 +62,7 @@
 | [0494-target-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
@@ -149,6 +150,7 @@
 | [0085-maximal-rectangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0221-maximal-square) |
+| [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [1260-shift-2d-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
@@ -162,6 +164,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -173,6 +176,7 @@
 | [0200-number-of-islands](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0322-coin-change) |
+| [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
@@ -181,6 +185,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0200-number-of-islands) |
+| [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -188,6 +193,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
@@ -283,6 +289,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0207-course-schedule) |
+| [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
