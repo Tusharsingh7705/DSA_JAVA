@@ -326,4 +326,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1192-critical-connections-in-a-network) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
