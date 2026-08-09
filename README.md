@@ -71,6 +71,7 @@
 | [0877-stone-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
@@ -122,6 +123,7 @@
 | [0877-stone-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -217,6 +219,7 @@
 | [0062-unique-paths](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0368-largest-divisible-subset) |
 | [0877-stone-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -328,6 +331,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -344,4 +348,16 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0207-course-schedule) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
