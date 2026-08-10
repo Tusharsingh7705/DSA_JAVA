@@ -127,6 +127,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1510-stone-game-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1510-stone-game-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -220,6 +221,7 @@
 | [0368-largest-divisible-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0368-largest-divisible-subset) |
 | [0877-stone-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -332,6 +334,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1510-stone-game-iv) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -352,6 +355,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -360,4 +364,13 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
