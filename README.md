@@ -12,6 +12,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -44,6 +45,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
