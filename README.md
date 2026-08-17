@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -77,6 +79,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
