@@ -98,6 +98,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
