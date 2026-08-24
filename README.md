@@ -9,6 +9,7 @@
 | [0127-word-ladder](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
@@ -226,6 +227,7 @@
 | [0200-number-of-islands](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -262,6 +264,7 @@
 | [0210-course-schedule-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -344,6 +347,7 @@
 | [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1192-critical-connections-in-a-network](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
@@ -426,4 +430,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
