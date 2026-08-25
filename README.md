@@ -391,6 +391,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
@@ -436,4 +437,8 @@
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
