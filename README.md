@@ -448,4 +448,8 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
