@@ -131,6 +131,7 @@
 | [0045-jump-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0120-triangle) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0368-largest-divisible-subset) |
 | [0877-stone-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
@@ -460,4 +462,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
