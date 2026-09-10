@@ -468,4 +468,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0070-climbing-stairs) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
