@@ -20,6 +20,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3731-find-missing-elements) |
@@ -107,6 +108,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -123,6 +125,7 @@
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
@@ -343,6 +346,7 @@
 |  |
 | ------- |
 | [1106-parsing-a-boolean-expression](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1106-parsing-a-boolean-expression) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
