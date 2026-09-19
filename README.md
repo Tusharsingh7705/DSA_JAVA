@@ -30,6 +30,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0516-longest-palindromic-subsequence) |
@@ -136,6 +137,7 @@
 | [0062-unique-paths](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0120-triangle) |
