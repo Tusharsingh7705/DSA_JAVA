@@ -83,6 +83,7 @@
 | [0213-house-robber-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0368-largest-divisible-subset) |
@@ -155,6 +156,7 @@
 | [0198-house-robber](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0368-largest-divisible-subset) |
@@ -234,6 +236,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -496,6 +499,7 @@
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Quicksort
 |  |
