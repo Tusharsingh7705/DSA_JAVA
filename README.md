@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0072-edit-distance) |
@@ -361,6 +362,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0085-maximal-rectangle) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1106-parsing-a-boolean-expression) |
@@ -428,6 +430,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
