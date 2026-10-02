@@ -30,6 +30,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0072-edit-distance) |
@@ -144,6 +145,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0064-minimum-path-sum) |
@@ -320,6 +322,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
@@ -431,6 +434,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
