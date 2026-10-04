@@ -38,6 +38,7 @@
 | [0127-word-ladder](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1048-longest-string-chain) |
@@ -170,6 +171,7 @@
 | [0518-coin-change-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0877-stone-game) |
@@ -189,6 +191,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -367,6 +370,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1106-parsing-a-boolean-expression](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -435,6 +439,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
