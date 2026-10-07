@@ -154,6 +154,7 @@
 | [0070-climbing-stairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -288,6 +289,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0368-largest-divisible-subset) |
 | [0877-stone-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
@@ -479,6 +481,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -486,6 +489,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -493,6 +497,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0700-search-in-a-binary-search-tree) |
