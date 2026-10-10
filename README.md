@@ -84,6 +84,7 @@
 | [0120-triangle](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0162-find-peak-element](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0200-number-of-islands) |
@@ -248,6 +249,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
