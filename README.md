@@ -16,6 +16,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -122,6 +123,7 @@
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -206,6 +208,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
@@ -353,6 +356,7 @@
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
