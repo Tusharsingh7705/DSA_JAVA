@@ -212,6 +212,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -315,6 +316,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3536-maximum-product-of-two-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3870-count-commas-in-range) |
