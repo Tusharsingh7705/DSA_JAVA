@@ -119,6 +119,7 @@
 | [1288-remove-covered-intervals](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -198,6 +199,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1510-stone-game-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -294,6 +296,7 @@
 | [0785-is-graph-bipartite](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -316,6 +319,7 @@
 | [1140-stone-game-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -347,6 +351,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -518,6 +523,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -526,6 +532,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -534,6 +541,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bipartite Graph
 |  |
 | ------- |
@@ -551,6 +559,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -564,4 +573,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
