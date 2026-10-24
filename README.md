@@ -59,6 +59,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -326,6 +327,7 @@
 | [1510-stone-game-iv](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1510-stone-game-iv) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
