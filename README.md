@@ -145,6 +145,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -263,6 +264,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -310,6 +313,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -459,6 +463,7 @@
 | [1254-number-of-closed-islands](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Topological Sort
 |  |
 | ------- |
