@@ -67,6 +67,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
@@ -151,6 +152,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -396,6 +398,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Ordered Set
 |  |
@@ -411,12 +414,14 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -468,6 +473,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Topological Sort
 |  |
 | ------- |
@@ -546,6 +552,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -599,6 +606,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Tusharsingh7705/DSA_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
